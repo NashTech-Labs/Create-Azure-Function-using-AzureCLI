@@ -1,4 +1,4 @@
-# Azure Cli to create function app
+# Azure CLI to create function app
 
 echo "Enter resource group name "
 read rgname
